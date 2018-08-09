@@ -1,7 +1,7 @@
 Kotlin Path Param Demo
 ==========================
 
-Use [ktor](http://ktor.io) to write web server.
+How to get path params from routes defined in [ktor](http://ktor.io) .
 
-Run `Hello.kt` in your IDE, and open <http://localhost:8080> in your browser.
+Run `Hello.kt` in your IDE.
 
